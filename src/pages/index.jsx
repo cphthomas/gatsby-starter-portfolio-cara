@@ -158,9 +158,9 @@ const Index = () => (
       <Content speed={0.4} offset={0}>
         <Hero>
           <BigTitle>
-            Hello, <br /> I'm John Doe.
+            Hej, <br /> Jeg hedder Thomas Petersen.
           </BigTitle>
-          <Subtitle>I'm creating noice web experiences for the next generation of consumer-facing companies.</Subtitle>
+          <Subtitle>Jeg underviser, laver online bøger og Quiz-programmering.</Subtitle>
         </Hero>
       </Content>
       <DividerMiddle
@@ -174,14 +174,14 @@ const Index = () => (
           <Title>Projects</Title>
           <ProjectsWrapper>
             <ProjectCard
-              title="Freiheit"
+              title="Bøger"
               link="https://www.behance.net/gallery/58937147/Freiheit"
               bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
             >
               This project is my entry to Adobe's #ChallengeYourPerspective contest.
             </ProjectCard>
             <ProjectCard
-              title="Harry Potter"
+              title="Quizzer"
               link="https://www.behance.net/gallery/52915793/Harry-Potter"
               bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
             >
